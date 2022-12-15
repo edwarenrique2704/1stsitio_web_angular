@@ -1,0 +1,13 @@
+.lpage{
+    background-image:url("../../../assets/images/amy-shamblen-xwM61TPMlYk-unsplash.jpg");
+    height:800px;
+    background-position:center-top;
+    background-size: cover;
+    width: auto;
+}
+
+
+.card{
+    left: 13%;
+    top: 39%;
+}

@@ -1,0 +1,33 @@
+
+.bann{
+    background-image:url("../../../assets/images/raphael-lovaski-pxax5WuM7eY-unsplash.jpg");
+    height:820px;
+    background-position:center-top;
+    background-size: cover;
+    width: auto;
+}
+.content{
+    top:30%;
+    left:20%;
+    position: absolute;
+}
+.content h1{
+    color:white;
+    font-size:80px;
+    font-weight: bold;
+    font-family:"Oswald";
+   
+}
+
+.content a{
+    text-decoration: none;
+    background-color:white;
+    color:rgb(48, 47, 45);
+    padding:15px 20px;
+    border-radius: 5px;
+
+}
+.content a:hover{
+    color:white;
+    background-color:green;
+}

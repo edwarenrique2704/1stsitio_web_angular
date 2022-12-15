@@ -1,0 +1,14 @@
+.contactPage{
+    background-image:url("../../../assets/images/element5-digital-ceWgSMd8rvQ-unsplash.jpg");
+    height: 750px;
+    background-position: center-top;
+    background-size: cover;
+    width:98%;
+    
+    
+}
+
+.card{
+    left: 50%;
+    top: 2%;
+}

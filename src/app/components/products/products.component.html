@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="row">
+        <div *ngFor="let item of productList" class="card col-md-3">
+            <img src="{{item.image}}" alt="">
+            <h5 style="white-space: nowrap;overflow: hidden;">{{item.title}}</h5>
+            <p style="white-space: nowrap;overflow: hidden;">{{item.description}}</p>
+            <p>price:${{item.price}}</p>
+            <button class="btn btn-success">buy</button>
+        </div>
+    </div>
+</div>
